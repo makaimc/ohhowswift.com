@@ -15,6 +15,17 @@ sort: 01
 ### Classes
 
 
+### Control Flow
+* [Swift 2.0: Control Flow and Error Handling](http://austinzheng.com/2015/06/08/swift-2-control-flow/)
+  examines the modification of Swift's `do-while` loop to `repeat-while` so
+  the `do` statement could be introduced in 2.0. The post also covers the
+  `guard` statement with a good IPv4 address parsing example, the `defer`
+  keyword and wraps up with 2.0's new error handling mechanisms. A good note
+  in the post is the explanation of the `try!` (force try) keyword which
+  calls a function that can potentially throw an error and will terminate the
+  program with a runtime exception if an exception is thrown.
+
+
 ### Function Currying
 *Function currying* is a concept Swift brings in from functional programming. 
 Curried functions rewrite an existing function with multiple arguments into 
