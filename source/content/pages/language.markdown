@@ -25,6 +25,10 @@ sort: 01
   calls a function that can potentially throw an error and will terminate the
   program with a runtime exception if an exception is thrown.
 
+* Apple's official [Swift error handling](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/ErrorHandling.html)
+  page goes over the basics of representing, throwing and handlinge errors in
+  programs.
+
 
 ### Function Currying
 *Function currying* is a concept Swift brings in from functional programming. 
