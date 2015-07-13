@@ -1,9 +1,10 @@
-title: Guard Statement
+title: Error Handling
 category: page
-slug: guard-statement
+slug: error-handling
 sort: 03
 
 
+## `guard` Statement
 The `guard` statement is Swift 2 syntax for positively checking an error
 condition and escaping from the immediate control flow, such as the current
 function.
