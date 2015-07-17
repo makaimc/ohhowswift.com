@@ -4,6 +4,11 @@ slug: language-concepts
 sort: 01
 
 
+This 
+[Swift cheatsheet](http://mhm5000.gitbooks.io/swift-cheat-sheet/content/index.html)
+provides loads of code examples for language syntax and constructs.
+
+
 ### Optionals
 * [Switches and optionals](https://thatthinginswift.com/switch-unwrap-shortcut/)  explains why optionals are a good fit for reducing the clunkiness in code
   around variables that may or may not have a value.
