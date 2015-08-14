@@ -13,6 +13,10 @@ provides loads of code examples for language syntax and constructs.
 * [Switches and optionals](https://thatthinginswift.com/switch-unwrap-shortcut/)  explains why optionals are a good fit for reducing the clunkiness in code
   around variables that may or may not have a value.
 
+* [Swift Optionals: When to use if let, when ? and !, when as? and as](http://www.touch-code-magazine.com/swift-optionals-use-let/)
+  digs into some of the confusing details behind force unwrapping, unwrapping
+  and general variable optional handling in Swift.
+
 
 ### Structs
 
